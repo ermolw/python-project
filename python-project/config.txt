@@ -1,0 +1,2 @@
+Host github.com
+ IdentifyFile /Users/meineordner/.ssh/id_ed25519.pub
